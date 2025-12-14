@@ -1,4 +1,4 @@
-
+## BE A TRAVELER 
 # Vinayaka Travels 🚍✈️
 
 Founder: Rahul Sharma  
