@@ -1,2 +1,22 @@
-# vinayaka-travels
-Description: Automation &amp; booking systems for Vinayaka Travels
+
+# Vinayaka Travels 🚍✈️
+
+Founder: Founder: Rahul Sharma  
+Helping businesses automate travel bookings & customer support
+
+## What we do
+We help customers book travel faster using smart automation.
+
+## Services
+- WhatsApp Booking Automation
+- Lead Collection Systems
+- Customer Support Automation
+- Travel Workflow Automation
+
+## Why GitHub?
+This repository showcases how we use technology to improve travel services.
+
+## 📞 Contact
+WhatsApp: Coming soon
+
+⭐ Follow this repository to see real automation use-cases.
