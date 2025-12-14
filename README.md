@@ -1,7 +1,7 @@
 
 # Vinayaka Travels 🚍✈️
 
-Founder: Founder: Rahul Sharma  
+Founder: Rahul Sharma  
 Helping businesses automate travel bookings & customer support
 
 ## What we do
