@@ -20,3 +20,4 @@ This repository showcases how we use technology to improve travel services.
 WhatsApp: Coming soon
 
 ⭐ Follow this repository to see real automation use-cases.
+⭐ Star this repository to support our automation work.
